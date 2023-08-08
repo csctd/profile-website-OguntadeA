@@ -1,3 +1,14 @@
+# Ayishat Oguntade Profile Website
+
+Welcome to my website, peers, professors, and companies   
+<!-- enter your target audience after the comma above -->
+
+Since you're here, you might be: 
+- Emma; a top employee from a  tech job trying to get a better understanding of who I am to consider hiring me.
+- Jhon; a friend who is looking at my website and giving me feedback on if he can see my website well with his sight imparemnet.
+- Nikki; a student/peer looking at my work to see if she would want to work with me in the future and get to know me.
+<!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
+
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11521495)
 # Sphinx Profile Page
 
