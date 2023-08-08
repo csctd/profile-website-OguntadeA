@@ -9,6 +9,12 @@ Since you're here, you might be:
 - Nikki; a student/peer looking at my work to see if she would want to work with me in the future and get to know me.
 <!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
 
+## Design
+My desgin will help people who are on my webside navigate it easilier to retive the information they want to. It is easy to read and navigate therefore my viewers wont get confused. Also I will use immages and fonts to make my page look pretty and appeal to people,so that they arent bored of my site.
+
+## Accessibility
+I will make my website accessible to eveyone with the choices of color, font and size, therefore people who have any visual imparemnt will be able to see my site well. I will run colorblind testing/ comparision to see if im on the right track.
+
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11521495)
 # Sphinx Profile Page
 
