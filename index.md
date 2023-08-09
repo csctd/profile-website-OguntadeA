@@ -13,4 +13,7 @@ More content you want on your page
 :hidden:
 
 pechakucha
+about
+job
+ffacts
 ```
