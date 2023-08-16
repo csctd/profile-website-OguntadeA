@@ -1,5 +1,10 @@
 # Pretty Pretty 
 
+<div id="slideshow">
+```{include} _static/play_pause.html
+```
+
+
 :::{card}
 :class-card: slide
 
@@ -11,3 +16,6 @@
 
 ![city](_static/img/city_aerial_view_road_156925_300x168.jpg) 
 :::
+
+
+</div>
