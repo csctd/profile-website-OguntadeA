@@ -111,7 +111,7 @@
 :::{card}
 :class-card: slide
 
-![chill17](_static/img/IMG_6635.jpg) 
+![chill17](_static/img/beach2.jpg) 
 :::
 
 :::{card}
